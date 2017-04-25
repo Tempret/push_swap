@@ -1,7 +1,7 @@
 <h1>The Push_swap project<h1>
 
 <h2>This is algorithmic project which realize sorting the stack of integers.</h2><br>
-<p>Here we have a spacial rules. We have one stack which filled on from arguments (stack A) and second empty stack (stack B)</p>
+<p>Here we have a spacial rules. First stack (stack A) contain the integers and second stack (stack B) is empty</p>
 <p>We can use only next instruction:</p>
 
 <b>sa</b> : swap a - swap the first 2 elements at the top of stack a. Do nothing if there
@@ -36,8 +36,8 @@ becomes the first one.<br>
 
 To compile executable use command `make`
 
-The `push_swap` executable will generate the right list of instruction for sorting the input stack of integers.<br>
-The `checker` executable will check is this list of instruction sort the stack correctly.<br>
+The `push_swap` executable will generate the right list of instruction for sorting input integers.<br>
+The `checker` executable will check instruction sorting list is right or wrong.<br>
 The `random` executable will generate a random list of integers. (e.g. `./random 10 30` will generate `10` random numbers from `-30` to `30` without repeats)<br>
 
 <h>Usage:</h>
