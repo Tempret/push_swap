@@ -1,4 +1,4 @@
-# push_swap
+# *push_swap*
 
 <h1>This is algorithmic project which realize sort the stack of integers.</h1><br>
 <p>Here we have a spacial rules. We have one stack which filled on from arguments (stack A) and second empty stack (stack B)</p><br>
@@ -33,3 +33,7 @@ becomes the first one.<br>
 becomes the first one.<br>
 
 <b>rrr</b> : rra and rrb at the same time.<br>
+
+<h>To compile executable use command "make"</h>
+
+<h>Usage:</h>
