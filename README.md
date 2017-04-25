@@ -51,3 +51,5 @@ or
 ```
 To enable visual mode use the `-v` flag whith `checker` (e.g. `./push_swap $ARG | ./checker $ARG -v`)<br><br>
 ![screenshot](https://github.com/Tempret/push_swap/blob/master/img/push_swap.png)
+
+![screenshot](https://github.com/Tempret/push_swap/blob/master/img/push_swap1.png)
