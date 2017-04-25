@@ -34,6 +34,18 @@ becomes the first one.<br>
 
 <b>rrr</b> : rra and rrb at the same time.<br>
 
-<h>To compile executable use command "make"</h>
+To compile executable use command `make`
+
+The `push_swap` executable will generate the right list of instruction for sorting the input stack of integers.
+The `checker` executable will check is this list of instruction sort the stack correctly.
+The `random` executable will generate a random list of integers. (e.g. `./random 10 30` will generate 10 random numbers from `-30` to `30` without repeats)
 
 <h>Usage:</h>
+```clj
+ ./push_swap 50 33 23 -56 12 38 123 93 -12 | ./checker 50 33 23 -56 12 38 123 93 -12
+```
+or 
+```clj
+  ARG="`./random 20 50`"
+ ./push_swap $ARG | ./checker $ARG
+```
