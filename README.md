@@ -1,6 +1,7 @@
 # push_swap
 
-
+<p>This is algorithmic project which realize sort the stack. Here we have a spacial rules. We have one stack which filled on from arguments (stack A) and second empty stack (stack B)</p><br>
+<p>We can use only next instruction:</p>
 
 <b>sa</b> : swap a - swap the first 2 elements at the top of stack a. Do nothing if there
 is only one or no elements).<br>
