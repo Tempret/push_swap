@@ -38,7 +38,7 @@ To compile executable use command `make`
 
 The `push_swap` executable will generate the right list of instruction for sorting the input stack of integers.<br>
 The `checker` executable will check is this list of instruction sort the stack correctly.<br>
-The `random` executable will generate a random list of integers. (e.g. `./random 10 30` will generate 10 random numbers from `-30` to `30` without repeats)<br>
+The `random` executable will generate a random list of integers. (e.g. `./random 10 30` will generate `10` random numbers from `-30` to `30` without repeats)<br>
 
 <h>Usage:</h>
 ```clj
