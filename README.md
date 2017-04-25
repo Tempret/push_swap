@@ -1,7 +1,7 @@
 # *push_swap*
 
-<h1>This is algorithmic project which realize sort the stack of integers.</h1><br>
-<p>Here we have a spacial rules. We have one stack which filled on from arguments (stack A) and second empty stack (stack B)</p><br>
+<h1>This is algorithmic project which realize sorting the stack of integers.</h1><br>
+<p>Here we have a spacial rules. We have one stack which filled on from arguments (stack A) and second empty stack (stack B)</p>
 <p>We can use only next instruction:</p>
 
 <b>sa</b> : swap a - swap the first 2 elements at the top of stack a. Do nothing if there
@@ -49,3 +49,4 @@ or
   ARG="`./random 20 50`"
  ./push_swap $ARG | ./checker $ARG
 ```
+To enable visual mode use the `-v` flag whith `checker` (e.g. `./push_swap $ARG | ./checker $ARG -v`)
