@@ -49,5 +49,5 @@ or
   ARG="`./random 20 50`"
  ./push_swap $ARG | ./checker $ARG
 ```
-To enable visual mode use the `-v` flag whith `checker` (e.g. `./push_swap $ARG | ./checker $ARG -v`)
-![screenshot](https://github.com/Tempret/push_swap/img/push_swap.png?raw=true)
+To enable visual mode use the `-v` flag whith `checker` (e.g. `./push_swap $ARG | ./checker $ARG -v`)<br>
+![screenshot](https://github.com/Tempret/push_swap/blob/master/img/push_swap.png)
