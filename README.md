@@ -50,4 +50,4 @@ or
  ./push_swap $ARG | ./checker $ARG
 ```
 To enable visual mode use the `-v` flag whith `checker` (e.g. `./push_swap $ARG | ./checker $ARG -v`)
-<img src="">
+![screenshot](https://github.com/Tempret/push_swap/img/push_swap.png?raw=true)
