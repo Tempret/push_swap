@@ -1,6 +1,6 @@
-### Push_swap project
+<h1>The Push_swap project<h1>
 
-<h3>This is algorithmic project which realize sorting the stack of integers.</h3><br>
+<h2>This is algorithmic project which realize sorting the stack of integers.</h2><br>
 <p>Here we have a spacial rules. We have one stack which filled on from arguments (stack A) and second empty stack (stack B)</p>
 <p>We can use only next instruction:</p>
 
